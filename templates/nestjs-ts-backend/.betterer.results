@@ -1,0 +1,14 @@
+// BETTERER RESULTS V2.
+// 
+// If this file contains merge conflicts, use `betterer merge` to automatically resolve them:
+// https://phenomnomnominal.github.io/betterer/docs/results-file/#merge
+//
+exports[`e2e test files should grow`] = {
+  value: `1
+`
+};
+
+exports[`unit test files should grow`] = {
+  value: `3
+`
+};
