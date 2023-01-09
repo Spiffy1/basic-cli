@@ -1,0 +1,1 @@
+# This should configuration to connect to log server

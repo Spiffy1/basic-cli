@@ -1,0 +1,36 @@
+{
+  "name": "template-cli",
+  "version": "1.0.0",
+  "description": "Project for instantiating projects via cli",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "template-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoroese/template-cli.git"
+  },
+  "author": "Phan Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "@betterer/betterer": "5.3.4",
+    "@betterer/cli": "^5.3.7",
+    "@betterer/constraints": "5.0.0",
+    "@betterer/eslint": "5.2.1",
+    "@babel/core": "^7.13.10",
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.4.1",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.3"
+  }
+}
